@@ -1,0 +1,9 @@
+[user]
+	name = Srivas
+	email = srivaskumara@gmail.com
+[init]
+	defaultBranch = main
+[core]
+	editor = vim
+[pull]
+	rebase = true
