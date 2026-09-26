@@ -1,2 +1,2 @@
-Hello My name is Srivas and I am currently a freshman studying Computer Science at Purdue Universty. I love playing spikeball, playing the clarinet, and playing geometry dash.
+This repository contains my runtime configuration files for bash, zsh, Vim, Git, and GDB. It also includes an installation script for setting up these configuration files on a new system.
 
